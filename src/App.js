@@ -8,10 +8,10 @@ function App() {
       <h2>Things I need to do:</h2>
       <ul>
         <li>Learn React</li>
-        <li>Climb Mt. Everest</li>
-        <li>Run a marathon</li>
-        <li className="green-background">Workout!!!</li>
-        <li>Feed the dogs</li>
+        <li>Re-Do Portfolio Site (again)</li>
+        <li>Learn Express</li>
+        <li className="highlight">Workout!!!</li>
+        <li>Water the Plants</li>
       </ul>
     </div>
   );
